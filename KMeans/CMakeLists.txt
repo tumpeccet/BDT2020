@@ -1,0 +1,1 @@
+add_library(kmeans k_mean.cpp)

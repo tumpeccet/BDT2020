@@ -1,0 +1,1 @@
+add_library(alignment alignment.cpp)

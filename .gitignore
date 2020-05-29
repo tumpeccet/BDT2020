@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+kMeans.txt
+evaluation.txt
+first_algorithm.txt
+second_algorithm.txt
+J29_B_CE_IonXpress_005.fastq
+
+Bioinformatika-jeleni
+cmake-build-debug
+GMM
